@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Abhinav Suman",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76432426?v=4",
+		"email": "2020kucp1052@iiitkota.ac.in",
+		"phone": "+917357940303",
+		
+		"summary": "I am a student of Indian Institute of Information and Technology, Kota, persuing my B.tch in Computer Science & Engineering.",
+		"location": {
+			"address": "Bada Bazar Khanpur",
+			"postalCode": "326038",
+			"city": "Jhalawar",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "@AbhinavSuman14",
+				"url": "https://www.twitter.com/<@AbhinavSuman14>"
+			},
+			{
+				"network": "Github",
+				"username": "abhinav226",
+				"url": "https://www.github.com/<abhinav226>/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Abhinav Suman",
+				"url": "https://www.linkedin.com/in/abhinav-suman-8a5188201"
+			},
+			{
+				"network": "Instagram",
+				"username": "abhi_nav26suman",
+				"url": "https://instagram.com/<abhi_nav26suman>"
+			}
+		]
+	},
+	
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		
+		
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript","C","Blender"]
+	}],
+	"interests": 
+	
+	{
+		"name": "playing",
+		"keywords": ["Cricket", "Badminton","Chess",]
+	},
+		      {  "name": "History and Geography",
+		         "keywords":["Geography","History","Archaeology","Exploration"]}
+		    ],
+	"references": []
+}
